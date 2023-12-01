@@ -1,0 +1,12 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "Advent 1: It Begins",
+    "uid": "it_begins_card",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "ItBegins.jsx"
+    },
+    "objectTypes": [{ "name": "contacts" }]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "2023-advent-app-1",
+  "description": "",
+  "uid": "2023_advent_app_1",
+  "scopes": ["crm.objects.contacts.read", "crm.objects.contacts.write"],
+  "public": false,
+  "extensions": {
+    "crm": {
+      "cards": [
+        {
+          "file": "extensions/it-begins-card.json"
+        }
+      ]
+    }
+  }
+}
