@@ -1,0 +1,16 @@
+{
+  "name": "secret-santa-app",
+  "description": "An app for the secret santa crm extension",
+  "uid": "secret_santa_app",
+  "scopes": ["crm.objects.contacts.read", "crm.objects.contacts.write"],
+  "public": false,
+  "extensions": {
+    "crm": {
+      "cards": [
+        {
+          "file": "extensions/secret-santa-card.json"
+        }
+      ]
+    }
+  }
+}

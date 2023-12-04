@@ -1,5 +1,5 @@
 {
-  "name": "advent-extension-1",
+  "name": "countdown-extension",
   "version": "0.1.0",
   "dependencies": {
     "@hubspot/ui-extensions": "latest",

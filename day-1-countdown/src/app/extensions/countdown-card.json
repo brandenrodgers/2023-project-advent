@@ -1,0 +1,12 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "Day 1: Countdown",
+    "uid": "countdown_card",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "Countdown.jsx"
+    },
+    "objectTypes": [{ "name": "contacts" }]
+  }
+}

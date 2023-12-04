@@ -3,16 +3,13 @@ import {
   Button,
   Divider,
   Heading,
-  Text,
   ProgressBar,
-  Tile,
   hubspot,
-  Flex,
 } from "@hubspot/ui-extensions";
 
-hubspot.extend(({ context }) => <ItBegins context={context} />);
+hubspot.extend(({ context }) => <Countdown context={context} />);
 
-const ItBegins = ({ context }) => {
+const Countdown = ({ context }) => {
   const [daysTilChristmas, setDaysTilChristmas] = useState();
 
   useEffect(() => {
