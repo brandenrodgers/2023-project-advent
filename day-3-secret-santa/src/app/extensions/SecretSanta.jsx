@@ -249,7 +249,7 @@ const SecretSanta = () => {
     <Flex direction="column" gap="medium">
       <Text>
         Ho! Ho! Ho! Use this tool to generate random Secret Santa pairings. Each
-        participant must enter their name an a password. The password will be
+        participant must enter their name and a password. The password will be
         used to secretly view the name of the person that you are assigned to.
       </Text>
 
