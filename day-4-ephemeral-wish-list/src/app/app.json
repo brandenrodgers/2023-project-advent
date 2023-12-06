@@ -1,0 +1,16 @@
+{
+  "name": "ephemeral-wish-list-app",
+  "description": "An app for the ephemeral wish list extension",
+  "uid": "ephemeral_wish_list_app",
+  "scopes": ["crm.objects.contacts.read", "crm.objects.contacts.write"],
+  "public": false,
+  "extensions": {
+    "crm": {
+      "cards": [
+        {
+          "file": "extensions/ephemeral-wish-list-card.json"
+        }
+      ]
+    }
+  }
+}

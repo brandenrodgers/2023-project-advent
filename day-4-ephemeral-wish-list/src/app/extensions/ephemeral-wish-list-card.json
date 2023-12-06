@@ -1,0 +1,12 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "Day 4: Ephemeral Wish List",
+    "uid": "ephemeral_wish_list_card",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "EphemeralWishList.jsx"
+    },
+    "objectTypes": [{ "name": "contacts" }]
+  }
+}
