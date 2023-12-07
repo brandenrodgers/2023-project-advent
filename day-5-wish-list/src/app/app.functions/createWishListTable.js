@@ -1,7 +1,8 @@
 const axios = require("axios");
 
-exports.main = async (context = {}) => {
-  const { PRIVATE_APP_ACCESS_TOKEN } = context.secrets;
+exports.main = async () => {
+  const { PRIVATE_APP_ACCESS_TOKEN } = process.env;
+
   const TABLE_NAME = "Christmas wish list";
 
   let tables;
