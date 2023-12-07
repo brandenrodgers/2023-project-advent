@@ -1,0 +1,20 @@
+{
+  "name": "wish-list-app",
+  "description": "An app for the wish list extension",
+  "uid": "wish_list_app",
+  "scopes": [
+    "crm.objects.contacts.read",
+    "crm.objects.contacts.write",
+    "hubdb"
+  ],
+  "public": false,
+  "extensions": {
+    "crm": {
+      "cards": [
+        {
+          "file": "extensions/wish-list-card.json"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "appFunctions": {
+    "createWishListTable": {
+      "file": "createWishListTable.js",
+      "secrets": []
+    },
+    "getUserWishListItems": {
+      "file": "getUserWishListItems.js",
+      "secrets": []
+    },
+    "addWishListItem": {
+      "file": "addWishListItem.js",
+      "secrets": []
+    },
+    "removeWishListItem": {
+      "file": "removeWishListItem.js",
+      "secrets": []
+    }
+  }
+}

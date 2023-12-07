@@ -1,0 +1,10 @@
+{
+  "name": "wish-list-function",
+  "version": "0.1.0",
+  "description": "",
+  "main": "wish-list-function.js",
+  "dependencies": {
+    "@hubspot/api-client": "^7.0.1",
+    "axios": "^0.27.2"
+  }
+}

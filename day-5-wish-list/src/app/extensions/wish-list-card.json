@@ -1,0 +1,12 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "Day 5: Wish List",
+    "uid": "wish_list_card",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "WishList.jsx"
+    },
+    "objectTypes": [{ "name": "contacts" }]
+  }
+}
