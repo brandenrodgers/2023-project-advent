@@ -1,6 +1,6 @@
-# Day 4 project for the december advent challenge
+# Day 6 project for the december advent challenge
 
-A wish list crm extension that doesn't persist
+A naughty or nice crm extension for each contact. This will also define a utility component that can be used to safely initialize any custom objects or properties that a card depends on.
 
 ## Usage
 

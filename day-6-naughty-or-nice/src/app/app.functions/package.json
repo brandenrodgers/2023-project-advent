@@ -1,0 +1,8 @@
+{
+  "name": "naughty-or-nice-function",
+  "version": "0.1.0",
+  "dependencies": {
+    "@hubspot/api-client": "^7.0.1",
+    "axios": "^0.27.2"
+  }
+}

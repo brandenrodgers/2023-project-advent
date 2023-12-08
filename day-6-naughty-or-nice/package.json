@@ -1,0 +1,9 @@
+{
+  "name": "day-6-naughty-or-nice",
+  "version": "0.1.0",
+  "description": "A naughty or nice crm extension for each contact",
+  "scripts": {
+    "postinstall": "cd ./src/app/extensions/ && npm install && cd ../app.functions && npm install",
+    "build": "npm run build --prefix ./src/app/extensions/"
+  }
+}

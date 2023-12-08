@@ -1,0 +1,12 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "Day 6: Naughty or Nice",
+    "uid": "naughty_or_nice_card",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "NaughtyOrNice.jsx"
+    },
+    "objectTypes": [{ "name": "contacts" }]
+  }
+}

@@ -1,4 +1,4 @@
-# Day 2 project for the december advent challenge
+# Day 5 project for the december advent challenge
 
 A wish list crm extension that uses custom objects to save a unique list per contact
 

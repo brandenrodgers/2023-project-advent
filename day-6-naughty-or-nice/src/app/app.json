@@ -1,0 +1,23 @@
+{
+  "name": "naughty-or-nice-app",
+  "description": "An app for the naughty or nice extension",
+  "uid": "naughty_or_nice_app",
+  "scopes": [
+    "crm.objects.contacts.read",
+    "crm.objects.contacts.write",
+    "crm.schemas.contacts.read",
+    "crm.schemas.contacts.write",
+    "crm.schemas.custom.read",
+    "crm.schemas.custom.write"
+  ],
+  "public": false,
+  "extensions": {
+    "crm": {
+      "cards": [
+        {
+          "file": "extensions/naughty-or-nice-card.json"
+        }
+      ]
+    }
+  }
+}

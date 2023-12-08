@@ -1,0 +1,8 @@
+{
+  "appFunctions": {
+    "hsInit": {
+      "file": "hsInit.js",
+      "secrets": []
+    }
+  }
+}

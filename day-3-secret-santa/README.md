@@ -1,4 +1,4 @@
-# Day 2 project for the december advent challenge
+# Day 3 project for the december advent challenge
 
 Secret Santa CRM card that utilizes custom objects to keep track of the secret santa pickings across users
 
