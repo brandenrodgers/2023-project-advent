@@ -3,6 +3,10 @@
     "hsInit": {
       "file": "hsInit.js",
       "secrets": []
+    },
+    "setNaughtyOrNice": {
+      "file": "setNaughtyOrNice.js",
+      "secrets": []
     }
   }
 }
