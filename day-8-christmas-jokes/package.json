@@ -1,0 +1,9 @@
+{
+  "name": "day-8-christmas-jokes",
+  "version": "0.1.0",
+  "description": "A Christmas joke CRM extension",
+  "scripts": {
+    "postinstall": "cd ./src/app/extensions/ && npm install && cd ../app.functions && npm install",
+    "build": "npm run build --prefix ./src/app/extensions/"
+  }
+}

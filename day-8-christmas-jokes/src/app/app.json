@@ -1,0 +1,16 @@
+{
+  "name": "christmas-joke-app",
+  "description": "An app for the christmas joke extension",
+  "uid": "christmas_joke_app",
+  "scopes": ["crm.objects.contacts.read", "crm.objects.contacts.write"],
+  "public": false,
+  "extensions": {
+    "crm": {
+      "cards": [
+        {
+          "file": "extensions/christmas-joke-card.json"
+        }
+      ]
+    }
+  }
+}

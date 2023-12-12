@@ -1,0 +1,12 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "Day 8: Christmas Joke",
+    "uid": "christmas_joke_card",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "ChristmasJoke.jsx"
+    },
+    "objectTypes": [{ "name": "contacts" }]
+  }
+}
