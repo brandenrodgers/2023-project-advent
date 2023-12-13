@@ -1,0 +1,9 @@
+{
+  "name": "day-9-coal-for-christmas",
+  "version": "0.1.0",
+  "description": "A crm card extension game that determines if you'll get coal for chistmas. It uses the value set in the naughty or nice card to determine the difficulty",
+  "scripts": {
+    "postinstall": "cd ./src/app/extensions/ && npm install && cd ../app.functions && npm install",
+    "build": "npm run build --prefix ./src/app/extensions/"
+  }
+}

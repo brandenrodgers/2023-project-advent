@@ -1,0 +1,21 @@
+{
+  "name": "coal-for-christmas-app",
+  "description": "An app for the coal for christmas extension",
+  "uid": "coal_for_christmas_app",
+  "scopes": [
+    "crm.objects.contacts.read",
+    "crm.objects.contacts.write",
+    "crm.schemas.contacts.read",
+    "crm.schemas.contacts.write"
+  ],
+  "public": false,
+  "extensions": {
+    "crm": {
+      "cards": [
+        {
+          "file": "extensions/coal-for-christmas-card.json"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "Day 9: Coal for Christmas",
+    "uid": "coal_for_christmas_card",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "CoalForChristmas.jsx"
+    },
+    "objectTypes": [{ "name": "contacts" }]
+  }
+}
